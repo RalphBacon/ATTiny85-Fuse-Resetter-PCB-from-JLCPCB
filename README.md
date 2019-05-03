@@ -24,7 +24,7 @@ https://www.banggood.com/5-PCS-Super-Loud-5V-Active-Alarm-Buzzer-Beeper-Tracker-
 
 A complete list of components required for this project is on my GitHub for you to download.
 
-I have a small number of battery holders, ZIF sockets, Buzzers, and on/off switches all of which were chosen for this PCB. Watch the video to find out how to contact me if you want these.
+#### I have a small number of battery holders, ZIF sockets, Buzzers, and on/off switches all of which were chosen for this PCB. Watch the video to find out how to contact me if you want these.
 
 The Gerber files (corrected) will be made available soon too. All the EasyEDA files, in fact, will be made available. Keep watching my GitHub where they will be listed. Then you can modify this design or order your own boards.
 
