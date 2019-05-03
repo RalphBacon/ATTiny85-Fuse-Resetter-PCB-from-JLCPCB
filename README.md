@@ -6,7 +6,7 @@ I finally created an Arduino Shield PCB for the ATTiny85 fuse resetter covered i
 #### How to Get JLCPCB Cash Coupon: https://bit.ly/2GMCH9w  
 
 ### See YouTube channel https://www.youtube.com/ralphbacon video #144
-(Direct link to video: )
+(Direct link to video:https://youtu.be/bTTdvcnAOgg)
 
 The PCB is an Arduino Shield (version R3) and it fits on top of an Arduino in the usual fashion. It allows us to use all 6 pins on the ATTiny85 as GPIO pins. Details in the video!
 
